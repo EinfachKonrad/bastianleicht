@@ -96,7 +96,7 @@ Bash                     3 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <details>
     <summary>:zap: GitHub Trophy</summary>
     <pre>
-        <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bastianleicht" alt="bastianleicht" /></a> </p>
+        <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=einfachkonrad" alt="einfachkonrad" /></a> </p>
     </pre>
 </details>
 
