@@ -10,10 +10,10 @@
 
 **🌐 My Projects:**
 
-- [ExpanseHost](https://expansehost.de) (released at: 02.02.2022)
+- [SafeGamez.net](https://SafeGamez.net) (under development!)
 
 ---
-<img alt="bastianleicht Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=bastianleicht&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
+<img alt="bastianleicht Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=einfachkonrad&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
 
 ---
 <!--START_SECTION:waka-->
@@ -68,8 +68,7 @@ Bash                     3 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <details>
     <summary>:zap: Github Stats</summary>
     <pre>
-        <img alt="GitHub Stats" src="https://github-readme-stats-new-bastianleicht.vercel.app/api?username=bastianleicht&show_icons=true&theme=dark" />
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=bastianleicht&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=8b155a&ring=8b155a&stroke=FFFFFFFF)](https://git.io/streak-stats"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=einfachkonrad&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=8b155a&ring=8b155a&stroke=FFFFFFFF)](https://git.io/streak-stats"/>
     </pre>
 </details>
 
@@ -101,4 +100,4 @@ Bash                     3 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
     </pre>
 </details>
 
-[Website]: https://bastianleicht.de/
+[Website]: https://ek-dev.live/
